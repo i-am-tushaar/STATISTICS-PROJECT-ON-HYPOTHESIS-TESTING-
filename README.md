@@ -13,6 +13,8 @@ Data Overview:
 For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation.
 Relevant columns used for this reseach:
   passenger_count (1 to 5)   payment_type (card or cash)   fare_amount   trip_distance (miles)   duration (minutes)
+**
+HYPOTHESIS TESTING**
 
 Null hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
