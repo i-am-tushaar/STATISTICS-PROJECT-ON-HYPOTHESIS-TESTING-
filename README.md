@@ -12,7 +12,7 @@ For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip record
 Relevant columns used for this reseach:
   passenger_count (1 to 5)   payment_type (card or cash)   fare_amount   trip_distance (miles)   duration (minutes)
 
-Null hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.\n
+Null hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
 Alternative hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash
 With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods.
@@ -20,6 +20,8 @@ With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null 
  Recommendations
  
 Encourage customers to pay with credit cards to capitalize on the potential for generating more revenue for taxi cab drivers.
+
 Implement strategies such as offering incentives or discounts for credit card transactions to incentivize customers to choose this payment method.
+
 Provide seamless and secure credit card payment options to enhance customer convenience and encourage adoption of this preferred payment method.
 
