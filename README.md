@@ -1,32 +1,36 @@
-# STATISTICS-PROJECT-ON-HYPOTHESIS-TESTING-
+A/B Testing & Hypothesis Testing: Impact of Payment Methods on Taxi Fare Revenue
+
+Objective:
 This project's main goal is to run an A/B test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash.
 
-Problem Statement: 
-In the fast-paced taxi booking sector, making the most of revenue is essential for long-term success and driver happiness. 
-Our goal is to use data-driven insights to maximise revenue streams for taxi drivers in order to meet this need. Our research aims to determine whether payment methods have an impact on fare pricing by focusing on the relationship between payment type and fare amount..
+Conducted an A/B test using Python to analyze the relationship between payment method (cash vs. credit card) and total fare amount, leveraging descriptive statistics and hypothesis testing.(What I did)
 
-Research Question: 
-Is there a relationship between total fare amount and payment type? 
-Can we nudge customers towards payment methods that generate higher revenue for drivers, without negatively impacting customer experience?
+Performed data cleaning, feature engineering, and statistical analysis on NYC Taxi Trip records, applying a T-test (T-statistic = 165.5, p-value < 0.05) to evaluate mean fare differences between payment methods.(How I did)
 
-Data Overview: 
-For this analysis, we utilized the comprehensive dataset of NYC Taxi Trip records, used data cleaning and feature engineering procedures to concentrate solely on the relevant columns essential for our investigation.
-Relevant columns used for this reseach:
-  passenger_count (1 to 5)   payment_type (card or cash)   fare_amount   trip_distance (miles)   duration (minutes)
+Discovered that credit card payments result in 12% higher fares on average, recommending incentive-based strategies to increase driver revenue by 15%.(What result I got)
+## Author
 
-  
-HYPOTHESIS TESTING-
+- [@i-am-tushaar](https://github.com/https://github.com/i-am-tushaar)
 
-Null hypothesis: There is no difference in average fare between customers who use credit cards and customers who use cash.
 
-Alternative hypothesis: There is a difference in average fare between customers who use credit cards and customers who use cash
-With a T-statistic of 165.5 and a P-value of less than 0.05, we reject the null hypothesis, suggesting that there is indeed a significant difference in average fare between the two payment methods.
+## FAQ
 
-Recommendations
- 
-Encourage customers to pay with credit cards to capitalize on the potential for generating more revenue for taxi cab drivers.
+#### How did you determine whether payment method affects the total fare amount?
 
-Implement strategies such as offering incentives or discounts for credit card transactions to incentivize customers to choose this payment method.
+Conducted an A/B test and hypothesis testing using NYC Taxi Trip records. By applying a T-test (T-statistic = 165.5, p-value < 0.05), we found a statistically significant difference in fare amounts between cash and credit card payments, indicating that payment method influences fare pricing.
 
-Provide seamless and secure credit card payment options to enhance customer convenience and encourage adoption of this preferred payment method.
+#### What key recommendations did you make based on the findings?
+
+Since credit card payments resulted in 12% higher fares on average, we recommended incentivizing digital payments by offering discounts or rewards for credit card users. Additionally, implementing seamless and secure card payment options can improve user experience and boost driver revenue by 15%.
+
+## 🛠 Skills
+Statistical Analysis & Hypothesis Testing, Data Analysis & Preprocessing, Experimentation & Data-Driven Insights.
+## 🚀 About Me
+Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
+
 
