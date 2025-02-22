@@ -1,4 +1,4 @@
-A/B Testing & Hypothesis Testing: Impact of Payment Methods on Taxi Fare Revenue
+**A/B Testing & Hypothesis Testing: Impact of Payment Methods on Taxi Fare Revenue**
 
 Objective:
 This project's main goal is to run an A/B test to examine the relationship between the total fare and the method of payment. We use Python hypothesis testing and descriptive statistics to extract useful information that can help taxi drivers generate more cash.
@@ -25,12 +25,13 @@ Since credit card payments resulted in 12% higher fares on average, we recommend
 
 ## 🛠 Skills
 Statistical Analysis & Hypothesis Testing, Data Analysis & Preprocessing, Experimentation & Data-Driven Insights.
-## 🚀 About Me
-Passionate developer always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
 
+## 🚀 About Me
+Passionate data analyst, always exploring new technologies and building cool projects. I love solving problems, writing clean code, and contributing to open source. Let's connect and create something awesome!
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)badge&logo=ko-fi&logoColor=white)](https://i-am-tushaar.github.io/Portfolio-Website/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tushar-choudhary-401b1a262/)
 
 
